@@ -63,7 +63,7 @@
 		"ignore": "^7.0.5",
 		"jiti": "^2.7.0",
 		"marked": "^15.0.12",
-		"minimatch": "^10.2.3",
+		"minimatch": "^10.2.6",
 		"proper-lockfile": "^4.1.2",
 		"strip-ansi": "^7.1.0",
 		"typebox": "^1.1.24",
