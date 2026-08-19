@@ -38,7 +38,7 @@ Prime Agent is an open-source coding and research agent designed for general and
 
 1. **Clone the repository:**
    ```powershell
-   git clone https://github.com/<your-username>/prime-agent-windows.git
+   git clone https://github.com/Thanki-Daksh/prime-agent-windows.git
    cd prime-agent-windows
    ```
 
