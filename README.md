@@ -47,7 +47,7 @@ Prime Agent is an open-source coding and research agent designed for general and
    npm install
    ```
 
-3. **Configure API Keys (Optional):**
+3. **Configure API Keys:**
    Copy the example environment file and add your provider keys, or skip this step to configure models interactively on first launch:
    ```powershell
    copy .env.example .env
